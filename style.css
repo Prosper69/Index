@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(245, 219, 233);
+    margin: 2%;
+}
+.content {
+    margin: 0;
+    padding: 25px;
+    background-color: white;
+    border-radius: 10px;
+}
+img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.prep {
+    background-color: rgb(250, 235, 215, 0.3);
+    border-radius: 10px;
+    padding: 2px;
+}
+.prep ul li span {
+    font-weight: bold;
+}
+.prep ul li {
+    margin-bottom: 2%;
+}
+.prep h3 {
+    color: rgb(150, 45, 150);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ing {
+    padding: 2px;
+    margin: 2px;
+}
+.ing h3 {
+    color: rgb(112, 78, 26);
+    font-weight: bolder;
+    font-size: 26px;
+}
+.ing ul li {
+    margin-bottom: 2%;
+}
+.instruc h3{
+    color: rgb(112, 78, 26);
+    font-weight: bolder;
+    font-size: 26px;
+}
+.instruc ol li span {
+    font-weight: bold;
+}
+.instruc ol li {
+    margin-bottom: 2%;
+}
+.nutri h3 {
+    color: rgb(112, 78, 26);
+    font-weight: bolder;
+    font-size: 26px;
+}
+table {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+th {
+    color: rgb(112, 78, 26);
+    font-weight: bolder;
+}
